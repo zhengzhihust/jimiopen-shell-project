@@ -1,0 +1,72 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXFileReference section */
+		DF2B605F1BC108D10019ABE2 /* build-tomcat.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = "build-tomcat.sh"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXGroup section */
+		DF2B60581BC1089E0019ABE2 = {
+			isa = PBXGroup;
+			children = (
+				DF2B605F1BC108D10019ABE2 /* build-tomcat.sh */,
+			);
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXProject section */
+		DF2B60591BC1089E0019ABE2 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0630;
+			};
+			buildConfigurationList = DF2B605C1BC1089E0019ABE2 /* Build configuration list for PBXProject "jimiopen-shell-project" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = DF2B60581BC1089E0019ABE2;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+			);
+		};
+/* End PBXProject section */
+
+/* Begin XCBuildConfiguration section */
+		DF2B605D1BC1089E0019ABE2 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Debug;
+		};
+		DF2B605E1BC1089E0019ABE2 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		DF2B605C1BC1089E0019ABE2 /* Build configuration list for PBXProject "jimiopen-shell-project" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				DF2B605D1BC1089E0019ABE2 /* Debug */,
+				DF2B605E1BC1089E0019ABE2 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = DF2B60591BC1089E0019ABE2 /* Project object */;
+}
